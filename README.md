@@ -1,7 +1,7 @@
 # Hey there 👋! I am ***John Henrich***
 
 
-#### I am Currently enrolled in Bataan Peninsula State University major in Network and Data Communication @[BPSU:school:](https://www.bpsu.edu.ph). A Third Year Student aspiring to be one of .NET and Front-End Developers. I am interested with technologies like Managing Databases, CRUD Application and some Web-Developing.
+<p align="center">I am Currently enrolled in Bataan Peninsula State University major in Network and Data Communication. A Third Year Student aspiring to be one of <strong>.NET</strong> and <strong>Front-End Developers</strong>. I am interested with technologies like Managing Databases, CRUD Application and some Web-Developing.</p>
 
 **Programming Languages**\
 ![c#](https://camo.githubusercontent.com/dd433625a6e00049c26f08143705ff9e32d5da44f503f1be133664b11e37e34b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3233393132303f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465) ![c++](https://camo.githubusercontent.com/121f5000155889c0642b8a6b2a33a7f5fbe5c32d9133dac405ac269da15fcf94/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532422532422d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465) 
