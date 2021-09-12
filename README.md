@@ -1,4 +1,4 @@
-# Hey there 👋! I am ***John Henrich***
+<h1 align='center'><img width = '500px' src="https://user-images.githubusercontent.com/79455416/132969663-8323beb7-2c2a-4ce3-b2f4-58d642f62f6b.png"></h1>
 
 
 <p align="center">I am Currently enrolled in Bataan Peninsula State University major in Network and Data Communication. A Third Year Student aspiring to be one of <strong>.NET</strong> and <strong>Front-End Developers</strong>. I am interested with technologies like Managing Databases, CRUD Application and some Web-Developing.</p>
